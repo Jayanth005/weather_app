@@ -1,0 +1,5 @@
+{
+    "editor.autoIndent": "full",
+    "editor.wrappingIndent": "indent",
+    "editor.stickyScroll.defaultModel": "indentationModel"
+}
